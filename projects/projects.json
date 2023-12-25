@@ -1,0 +1,113 @@
+[
+  {
+    "name": "Amazon Clone",
+    "desc": "Amazon clone app using React JS. Built using JavaScript, SQLite, Firebase,HTML/CSS",
+    "image": "Aamazon",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/ak28",
+      "code": "https://github.com/Alokjha1999/Amazon-Clone-App"
+    }
+  },
+  {
+    "name": "Flipkart React",
+    "desc": "Ecommerce App using React Jd.",
+    "image": "Flipkart",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.linkedin.com/ak28",
+      "code": "https://github.com/Alokjha1999/Shop-Easy-App"
+    }
+  },
+  {
+    "name": "Living Luxe",
+    "desc": "React Realstate app using React.",
+    "image": "Living",
+    "category": "React JS",
+    "links": {
+      "view": "https://www.linkedin.com/ak28",
+      "code": "https://github.com/Alokjha1999/LivingLuxe"
+    }
+  },
+  {
+    "name": "Movie App",
+    "desc": "Movie App using React JS.",
+    "image": "Movie",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/ak28",
+      "code": "https://github.com/Alokjha1999/CineStream-application"
+    }
+  },
+  {
+    "name": "Fiver React",
+    "desc": "Fiver Using React JS and Node JS",
+    "image": "Fiverr",
+    "category": "React JS",
+    "links": {
+      "view": "https://www.linkedin.com/ak28",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": " Timer React",
+    "desc": "Timer App using React JS.",
+    "image": "Timer",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.linkedin.com/ak28",
+      "code": "https://github.com/Alokjha1999/Timer-React"
+    }
+  },
+  {
+    "name": "Food Booking",
+    "desc": "ReactJS Basic food booking app.",
+    "image": "Food",
+    "category": "React JS",
+    "links": {
+      "view": "https://www.linkedin.com/ak28",
+      "code": "https://github.com/Alokjha1999/Food-Booking "
+    }
+  },
+  {
+    "name": "Font Awesome-Projects",
+    "desc": "Full-Stack project Font Awesome Project dashboard which is collection of projects built on the React library.",
+    "image": "Font",
+    "category": "React JS",
+    "links": {
+      "view": "https://www.linkedin.com/ak28",
+      "code": "https://github.com/Alokjha1999/Font-Awesome-Clone "
+    }
+  },
+  {
+    "name": "Telegram React JS",
+    "desc": "Telegram Clone Using React JS. With all major features.",
+    "image": "Telegram",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.linkedin.com/ak28",
+      "code": "https://github.com/Alokjha1999/Telegram-Clone "
+    }
+  },
+  {
+    "name": "Chat Website",
+    "desc": "This Chat website is specially build to showcase Chaating feature.",
+    "image": "Chat",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.linkedin.com/ak28",
+      "code": "https://github.com/Alokjha1999/React-Chat"
+    }
+  },
+  {
+    "name": "Online Learning App",
+    "desc": "Online learning app using React Js.",
+    "image": "Edu",
+    "category": "React JS",
+    "links": {
+      "view": "https://www.linkedin.com/ak28",
+      "code": "https://github.com/Alokjha1999/Online_Learning_EduHub"
+    }
+  }
+]
+  
